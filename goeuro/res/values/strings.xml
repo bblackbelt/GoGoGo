@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">Swiss stationboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="departue">Departure</string>
+    <string name="arrival">Arrival</string>
+    <string name="time">Time</string>
+    <string name="type">Type</string>
+    <string name="destination">Destination</string>
+    <string name="generic_error">Error retrieving the information.</string>
+    <string name="no_coonection">Please I need an Internet connection to work!</string>
+    <string name="changeDate">Change date</string>
+    <string name="search">Search</string>
+    <string name="goeuro">GoEuro</string>
+    <string name="search_error">Search is not yet implemented</string>
+</resources>
